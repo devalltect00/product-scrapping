@@ -1,0 +1,237 @@
+{
+    "shopList" : ["Lazada", "Shopee", "Tokopedia", "Bukalapak"],
+    "detail" : [
+        {
+            "name" : "Lazada",
+            "link" : "https://www.lazada.co.id",
+            "linkSearchItem" : {
+                "format" : "https://www.lazada.co.id/catalog/?q={...}&_keyori=ss&from=input&spm=a2o4j.home.search.go.579953e0w0sNRu",
+                "spaceFormat" : {
+                    "from" : " ",
+                    "to" : "+"
+                }
+            },
+            "structure" : {
+                "collectionOfItem" : [{
+                    "tag" : "div",
+                    "class" : "_17mcb"}],
+                "eachItem" : [{
+                    "tag" : "div",
+                    "class" : "Bm3ON"}],
+                "product":{
+                    "picture" : [{
+                        "tag" : "div",
+                        "class" : "picture-wrapper"
+                        },{
+                        "tag" : "img",
+                        "class" : null}],
+                    "overview" : [{
+                        "tag" : "div",
+                        "class" : "buTCk"}],
+                    "name" : [{
+                        "tag" : "div",
+                        "class" : "RfADt"}],
+                    "price" : [{
+                        "tag" : "div",
+                        "class" : "aBrP0"}],
+                    "location" : [{
+                        "tag" : "div",
+                        "class" : "_6uN7R"
+                        },{
+                        "tag" : "span",
+                        "class" : "oa6ri"}]
+                }
+            }
+        },{
+            "name" : "Shopee",
+            "link" : "https://shopee.co.id/",
+            "linkSearchItem" : {
+                "format" : "https://shopee.co.id/search?keyword={...}",
+                "spaceFormat" : {
+                    "from" : " ",
+                    "to" : "%20"
+                }
+            },
+            "structure" : {
+                "collectionOfItem" : [{
+                    "tag" : "div",
+                    "class" : "row shopee-search-item-result__items"}],
+                "eachItem" : [{
+                    "tag" : "div",
+                    "class" : "col-xs-2-4 shopee-search-item-result__item"}],
+                "product":{
+                    "picture" : [{
+                        "tag" : null, 
+                        "class" : null
+                        },{
+                        "tag" : "img",
+                        "class" : null}],
+                    "overview" : [{
+                        "tag" : "div",
+                        "class" : "KMyn8J"}],
+                    "name" : [{
+                        "tag" : "div",
+                        "class" : "dpiR4u"
+                        },{
+                        "tag" : "div",
+                        "class" : "ie3A+n bM+7UW Cve6sh"}],
+                    "price" : [{
+                        "tag" : "div",
+                        "class" : "hpDKMN"}],
+                    "location" : [{
+                        "tag" : "div",
+                        "class" : "zGGwiV"}]
+                }
+            }
+        },{
+            "name" : "Tokopedia",
+            "link" : "https://www.tokopedia.com",
+            "linkSearchItem" : {
+                "format" : "https://www.tokopedia.com/search?st=product&q={...}&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource=",
+                "spaceFormat" : {
+                    "from" : " ",
+                    "to" : "%20"
+                }
+            },
+            "structure" : [{
+                "collectionOfItem" : [{
+                    "tag" : "div",
+                    "class" : "css-1rzg7ys"
+                    },{
+                    "tag" : "div",
+                    "class" : "css-1nod7cp"}],
+                "eachItem" : [{
+                    "tag" : "div",
+                    "class" : "css-kkkpmy"}],
+                "product":{
+                    "picture" : [{
+                        "tag" : null, 
+                        "class" : null
+                        },{
+                        "tag" : "img",
+                        "class" : null}],
+                    "overview" : [{
+                        "tag" : "div",
+                        "class" : "css-974ipl custom-cursor-on-hover"}],
+                    "name" : [{
+                        "tag" : "div",
+                        "class" : "prd_link-product-name css-3um8ox"}],
+                    "price" : [{
+                        "tag" : "div",
+                        "class" : "prd_link-product-price css-1ksb19c"}],
+                    "location" : [{
+                        "tag" : null, 
+                        "class" : null}]
+                }
+            },{
+                "collectionOfItem" : [{
+                    "tag" : "div",
+                    "class" : "divSRPContentProducts"}],
+                "eachItem" : [{
+                    "tag" : "div",
+                    "class" : "css-12sieg3"}],
+                "product":{
+                    "picture" : [{
+                        "tag" : null, 
+                        "class" : null
+                        },{
+                        "tag" : "img",
+                        "class" : null}],
+                    "overview" : [{
+                        "tag" : "div",
+                        "class" : "css-974ipl"}],
+                    "name" : [{
+                        "tag" : "div",
+                        "class" : "prd_link-product-name css-3um8ox"}],
+                    "price" : [{
+                        "tag" : "div",
+                        "class" : "prd_link-product-price css-1ksb19c"}],
+                    "location" : [{
+                        "tag" : "div",
+                        "class" : "css-1rn0irl"
+                        },{
+                        "tag" : "span",
+                        "class" : "prd_link-shop-loc css-1kdc32b flip"}]
+                }
+            }]},{
+            "name" : "Bukalapak",
+            "link" : "https://www.bukalapak.com",
+            "linkSearchItem" : {
+                "format" : "https://www.bukalapak.com/products?from=omnisearch&from_keyword_history=false&search%5Bkeywords%5D={...}&search_source=omnisearch_keyword&source=navbar",
+                "spaceFormat" : {
+                    "from" : " ",
+                    "to" : "%20"
+                }
+            },
+            "structure" : [{
+                "collectionOfItem" : [{
+                    "tag" : "div",
+                    "class" : "bl-flex-container flex-wrap is-gutter-16"}],
+                "eachItem" : [{
+                    "tag" : "div",
+                    "class" : "bl-flex-item mb-8"}],
+                "product":{
+                    "picture" : [{
+                        "tag" : null, 
+                        "class" : null
+                        },{
+                        "tag" : "img",
+                        "class" : null}],
+                    "overview" : [{
+                        "tag" : "div",
+                        "class" : "bl-product-card__description"}],
+                    "name" : [{
+                        "tag" : "div",
+                        "class" : "bl-product-card__description-name"}],
+                    "price" : [{
+                        "tag" : "div",
+                        "class" : "bl-product-card__description-price"}],
+                    "rating" : [{
+                        "tag" : "div",
+                        "class" : "bl-product-card__description-rating"}],
+                    "status" : [{
+                        "tag" : "div",
+                        "class" : "bl-product-card__description-rating-and-sold"},{
+                        "tag" : "p",
+                        "class" : null}],
+                    "location" : [{
+                        "tag" : "div",
+                        "class" : "bl-product-card__description-store"}]
+                }
+            },{
+                "collectionOfItem" : [{
+                    "tag" : "div",
+                    "class" : "bl-flex-container flex-wrap is-gutter-16"}],
+                "eachItem" : [{
+                    "tag" : "div",
+                    "class" : "bl-flex-item mb-8"}],
+                "product":{
+                    "picture" : [{
+                        "tag" : null, 
+                        "class" : null
+                        },{
+                        "tag" : "img",
+                        "class" : null}],
+                    "overview" : [{
+                        "tag" : "div",
+                        "class" : "bl-product-card-new__description"}],
+                    "name" : [{
+                        "tag" : "div",
+                        "class" : "bl-product-card-new__name"
+                        },{
+                        "tag" : "div",
+                        "class" : "ie3A+n bM+7UW Cve6sh"}],
+                    "price" : [{
+                        "tag" : "div",
+                        "class" : "bl-product-card-new__prices"
+                        },{
+                        "tag" : "div",
+                        "class" : "bl-product-card-new__price-and-currency"}],
+                    "location" : [{
+                        "tag" : "div",
+                        "class" : "bl-product-card__description-store"}]
+                }
+            }]
+        }
+    ]
+}

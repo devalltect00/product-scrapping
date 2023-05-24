@@ -1,0 +1,11 @@
+Dependecies
+
+# General
+ * python
+ * nodejs
+    # npm
+     * electron
+     * python-shell
+    # pip
+     * requests
+     * beautifulsoup4

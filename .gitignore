@@ -1,0 +1,50 @@
+# Python-specific
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+env.bak/
+env2/
+env3/
+
+# macOS-specific
+.DS_Store
+
+# Node.js / NPM / Yarn / Electron-specific
+
+# Dependency directories
+node_modules/
+/dist/
+
+# Build artifacts
+/out/
+
+# Environment variables
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Other project-specific files and directories to ignore (customize as needed)

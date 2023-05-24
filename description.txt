@@ -1,0 +1,22 @@
+This is
+
+initiallize plan : want to get the price, to see what is the cheapest (low cost) and most expensive (high cost) of product, and see where i can go buy it.
+initiallize with e-commerce app, the list is = [{name:lazada,link:https://www.lazada.co.id},{name:shopee,link:https://shopee.co.id/},{name:tokopedia,link:https://www.tokopedia.com},{name:bukalapak,link:https://www.bukalapak.com/}]
+
+v1.0.0
+
+main feature
+get name, image, price, and location of product
+get the highest price and lowest price and its info product
+
+-----------------------------------------------------------------------------
+
+incoming...
+
+v1.0.0.1
+
+adding shop name info
+adding the rating of product
+adding the discounts info of product. Price "from" and "to"; Discounts in "percents"
+adding delivery information like ["COD", "No Ongkir"]
+adding payment method

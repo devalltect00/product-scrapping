@@ -1,0 +1,98 @@
+Logitech C922 Pro Stream Webcam
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.lazada.co.id/catalog/?q=Logitech+C922+Pro+Stream+Webcam&_keyori=ss&from=input&spm=a2o4j.home.search.go.579953e0w0sNRu
+https://www.lazada.co.id/catalog/?q=Logitech+C922+Pro+Stream+Webcam&_keyori=ss&from=input&spm=a2o4j.home.search.go.579953e0XsOotQ
+
+https://www.lazada.co.id/tag/webcam-logitech/?q=webcam+logitech&_keyori=ss&from=input&spm=a2o4j.searchlist.search.go.53584bebKaOIDo&catalog_redirect_tag=true
+https://www.lazada.co.id/tag/webcam-logitech/?q=webcam+logitech&_keyori=ss&from=input&spm=a2o4j.home.search.go.579953e0rJ2wWL&catalog_redirect_tag=true
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://shopee.co.id/search?keyword=logitech%20c922%20pro%20stream%20webcam
+
+https://shopee.co.id/search?keyword=webcam%20logitech
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.tokopedia.com/search?st=product&q=Logitech%20C922%20Pro%20Stream%20Webcam&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource=
+
+https://www.tokopedia.com/search?st=product&q=webcam%20logitech&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource=
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+https://www.bukalapak.com/products?from=omnisearch&from_keyword_history=false&search%5Bkeywords%5D=Logitech%20C922%20Pro%20Stream%20Webcam&search_source=omnisearch_keyword&source=navbar
+https://www.bukalapak.com/products?search%5Bkeywords%5D=Logitech%20C922%20Pro%20Stream%20Webcam
+
+https://www.bukalapak.com/products?search%5Bkeywords%5D=webcam%20logitech
+https://www.bukalapak.com/products?search%5Bkeywords%5D=webcam%20logitech
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Lazada
+(https://www.lazada.co.id/catalog/?q={...}&_keyori=ss&from=input&spm=a2o4j.home.search.go.579953e0w0sNRu).(" " to "+")
+
+collection if item : (div, class "_17mcb")
+each item : (div, class "Bm3ON") {
+
+(div, class "qmXQo")
+
+picture : (div, class "picture-wrapper") > (img, src <attribute>)
+product overview : (div, class "buTCk") {
+name of product : <1st (div)> (div, class "RfADt")
+price of product : <2nd (div)> (div, class "aBrP0")
+location : <4th (div)> (div, class "_6uN7R") > (span, class "oa6ri ")
+}
+}
+
+
+Shopee
+(https://shopee.co.id/search?keyword={...}).(" " to "%20")
+
+collection if item : (div, class "row shopee-search-item-result__items")
+each item : (div, class "col-xs-2-4 shopee-search-item-result__item") {
+picture : (img, src <attribute>)
+product overview : (div, class "KMyn8J") {
+name of product : <1st (div)> (div, class "dpiR4u") > (div, class "ie3A+n bM+7UW Cve6sh")
+price of product : <2nd (div)> (div, class "hpDKMN")
+location : <4th (div)> (div, class "zGGwiV")
+}
+}
+
+Tokopedia
+(https://www.tokopedia.com/search?st=product&q={...}&srp_component_id=02.01.00.00&srp_page_id=&srp_page_title=&navsource=).(" " to "%20")
+
+collection if item : (div, class "css-1rzg7ys") > (div, class "css-1nod7cp")
+each item : (div, class "css-kkkpmy") {
+picture : (img, src <attribute>)
+product overview : (div, class "css-974ipl custom-cursor-on-hover") {
+name of product : (div, class "prd_link-product-name css-3um8ox")
+price of product : (div, class "prd_link-product-price css-1ksb19c")
+}
+}
+
+collection if item : (div, class "divSRPContentProducts") > (div, class "css-jza1fo")
+each item : (div, class "css-12sieg3") {
+picture : (img, src <attribute>)
+product overview : (div, class "css-974ipl") {
+name of product : (div, class "prd_link-product-name css-3um8ox")
+price of product : (div, class "prd_link-product-price css-1ksb19c")
+location : (div, class "css-1rn0irl") > (span, class "prd_link-shop-loc css-1kdc32b flip")
+}
+}
+
+Bukalapak
+(https://www.bukalapak.com/products?from=omnisearch&from_keyword_history=false&search%5Bkeywords%5D={...}&search_source=omnisearch_keyword&source=navbar).(" " to "%20")
+
+collection if item : (div, class "bl-flex-container flex-wrap is-gutter-16")
+each item : (div, class "bl-flex-item mb-8") {
+picture : (img, src <attribute>)
+product overview : (div, class "bl-product-card-new__description") {
+name of product : <1st (div)> (div, class "bl-product-card-new__name") > (a <tag>, class "bl-link")
+price of product : <2nd (div)> (div, class "bl-product-card-new__prices") > (div, class "bl-product-card-new__price-and-currency")
+location : <4th (div)> (div, class "bl-product-card-new__store-overview") > (p, class "bl-text bl-text--caption-12 bl-text--secondary bl-text--ellipsis__1 bl-product-card-new__store-location")
+}
+}

@@ -1,0 +1,4 @@
+electron
+python-shell
+bootstrap@v5.2.3
+sweetalert
